@@ -25,7 +25,7 @@ void loop() {
   for (int thisTest = 1; thisTest <= 2; thisTest++) {
     if (thisTest == 1) {       // Test case 1
       digitalWrite(12, LOW);  // A line
-      digitalWrite(11, LOW;   // B line
+      digitalWrite(11, LOW);   // B line
       digitalWrite(10, HIGH);  // C line
       digitalWrite(9, LOW);    // D line
       digitalWrite(8, LOW);    // E line
